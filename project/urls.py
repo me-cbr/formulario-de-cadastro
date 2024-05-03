@@ -3,4 +3,5 @@ from register import views
 
 urlpatterns = [
     path('', views.index, name='index'),
+    path('list/', views.list, name='list'),
 ]
