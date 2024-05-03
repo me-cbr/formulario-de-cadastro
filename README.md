@@ -1,2 +1,2 @@
-# formulario-de-cadastro
-Formulário de cadastro de usuários utilizando django e postgres.
+# Formulário de Cadastro de Usuários 
+Formulário de cadastro de usuários utilizando Django e PostgreSQL.
